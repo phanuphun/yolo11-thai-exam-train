@@ -1,0 +1,7 @@
+env
+data*
+test_data*
+datasets*
+runs*
+models*
+pycache*
