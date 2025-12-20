@@ -10,7 +10,7 @@ from pix2text import Pix2Text
 # Config
 # -------------------------
 MODEL_PATH = "best.pt"
-PAGE_IMG = "test_data/01.png"
+PAGE_IMG = "test_data/03.png"
 
 # output/<PAGE_STEM>/problemX/...
 OUT_ROOT = Path("output")
